@@ -1,0 +1,8 @@
+[2025-11-03 14:38:38] ERROR: Source folder not found: /Users/user/my_documents
+[2025-11-03 14:39:41] INFO: Creating backup for /home/user/my_documents
+[2025-11-03 14:39:42] SUCCESS: Backup created: /home/user/backups/backup-2025-11-03-1439.tar.gz
+[2025-11-03 14:39:42] INFO: Verifying backup integrity...
+[2025-11-03 14:39:42] SUCCESS: Backup verified successfully
+[2025-11-03 14:39:42] INFO: Applying retention policy...
+[2025-11-03 14:40:23] INFO: Listing available backups:
+[2025-11-03 15:48:50] SUCCESS: Backup restored to /home/user/restored_documents
