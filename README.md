@@ -95,6 +95,7 @@ Copy code
 ├── backup-2025-11-02-0900.tar.gz
 ├── backup-2025-11-02-0900.tar.gz.md5
 └── backup.log
+
 D. Design Decisions
 Why This Approach?
 Bash is available by default on most Linux systems — no dependencies required.
