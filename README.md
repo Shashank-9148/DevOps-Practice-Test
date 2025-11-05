@@ -150,6 +150,7 @@ Automatic Cleanup Example
 yaml
 Copy code
 [2025-11-05 11:33:00] INFO: Deleted old backup backup-2025-10-15-0900.tar.gz
+
 F. Known Limitations
 Currently supports only one source folder per run.
 
